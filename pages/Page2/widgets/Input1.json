@@ -58,7 +58,7 @@
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
     "widgetId": "vjc5uxhcwf",
     "minWidth": 450,
-    "label": "Internet bill month",
+    "label": "Month",
     "parentId": "0",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
